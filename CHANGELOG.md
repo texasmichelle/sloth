@@ -4,6 +4,20 @@
 
 [1]: https://www.npmjs.com/package/@justinbeckwith/sloth?activeTab=versions
 
+## [4.29.0](https://www.github.com/googleapis/sloth/compare/v4.28.0...v4.29.0) (2019-12-13)
+
+
+### Features
+
+* add sample-tester repo ([#415](https://www.github.com/googleapis/sloth/issues/415)) ([679b614](https://www.github.com/googleapis/sloth/commit/679b61487e24314f15c477cbfb535964cabca075))
+* add user to yoshi-nodejs ([#418](https://www.github.com/googleapis/sloth/issues/418)) ([f50d779](https://www.github.com/googleapis/sloth/commit/f50d7798dad87baf9bfb72bb1e7b12c2f60a1683))
+
+
+### Bug Fixes
+
+* **deps:** pin TypeScript below 3.7.0 ([50cd2bd](https://www.github.com/googleapis/sloth/commit/50cd2bdd42a0a65a46f7656290ac11e40a0fbc61))
+* **deps:** update dependency update-notifier to v4 ([#424](https://www.github.com/googleapis/sloth/issues/424)) ([56979e9](https://www.github.com/googleapis/sloth/commit/56979e99223ce44f793442e1f9f9918c8a7c4f55))
+
 ## [4.28.0](https://www.github.com/googleapis/sloth/compare/v4.27.0...v4.28.0) (2019-11-21)
 
 
